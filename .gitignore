@@ -1,0 +1,8 @@
+# Carpeta de fitxers temporals de Python
+__pycache__/
+
+# Fitxers compilats
+*.pyc
+
+# Fitxer de dades locals (no es puja a GitHub)
+dades.json
