@@ -31,4 +31,4 @@ L’objectiu de MicroSave és demostrar que **amb petits gestos es poden aconseg
 
 1. Clona el repositori:
 ```bash
-git clone https://github.com/el_teu_usuari/microsave.git
+git clone https://github.com/EduTecH81/microsave.git
